@@ -5,7 +5,7 @@ Thanks to the kind help of [Jon Stanley](https://www.electronixandmore.com/proje
 The files are [kicad](https://www.kicad.org/) schematics and PCB.
 
 # Fixes
-The [errata](https://archive.org/details/EA1976/EA 1976-07 July/page/n125/mode/2up) in July 1976 on page 125 list a few corrections.
+The [errata](https://archive.org/details/EA1976/EA%201976-07%20July/page/n125/mode/2up) in July 1976 on page 125 list a few corrections.
 * IC 5 is incorrectly shown as NAND on the schematic. Jon also discovered this independently.
 * 2 0.0047uF polystyrene.
 * There is also an error in a the RF circuit, but we are not building that.
