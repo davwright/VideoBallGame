@@ -18,4 +18,4 @@ The [errata](https://archive.org/details/EA1976/EA%201976-07%20July/page/n125/mo
 * ground and probe pins are added across the circuit for debugging.
 * the board is printed double-sided, with a ground back plate, and removing the need for any jumper wires.
 * the RF tuner circuit is completely removed, and the video signal is directly fed to composite video.
-* includes Jon's 10MΩ fix for the flipflop on IC5 holding the ball's horizontal direction.
+* Replaced IC5 with NOR. it is incorrectly NAND on schematic. This changes a lot.
