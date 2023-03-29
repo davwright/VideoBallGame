@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "BCES")(type "KiCad")(uri "${KIPRJMOD}/Transistor BCES.kicad_sym")(options "")(descr ""))
+  (lib (name "SW_DP3T")(type "KiCad")(uri "${KIPRJMOD}/SW_DP3T.kicad_sym")(options "")(descr ""))
 )
