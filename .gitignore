@@ -42,3 +42,5 @@ bom/
 out/
 
 # End of https://www.toptal.com/developers/gitignore/api/kicad
+~Video Ball Game.kicad_pcb.lck
+~Video Ball Game.kicad_sch.lck
